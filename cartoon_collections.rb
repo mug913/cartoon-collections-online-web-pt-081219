@@ -1,7 +1,7 @@
 def roll_call_dwarves(array)# code an argument here
   i = 0
   while i < array.length 
-  yield(array.each(name))
+  yield(array.each)
   puts "#{(i + 1)} #{name}" 
 end
 end
